@@ -1,0 +1,16 @@
+-- This module is the root of the CellBiologyCytoskeletonActinCanonicalLaneLean Lean proof package.
+import CellBiologyCytoskeletonActinCanonicalLaneLean.AdmissibleClass
+import CellBiologyCytoskeletonActinCanonicalLaneLean.BridgeLemmas
+import CellBiologyCytoskeletonActinCanonicalLaneLean.GateLemmas
+import CellBiologyCytoskeletonActinCanonicalLaneLean.FinalTheorem
+import CellBiologyCytoskeletonActinCanonicalLaneLean.ActinFilamentPackage
+import CellBiologyCytoskeletonActinCanonicalLaneLean.TreadmillingPackage
+import CellBiologyCytoskeletonActinCanonicalLaneLean.CellProtrusionPackage
+
+namespace HautevilleHouse
+namespace CellBiologyCytoskeletonActinCanonicalLaneLean
+
+-- The package root imports all modules.
+
+end CellBiologyCytoskeletonActinCanonicalLaneLean
+end HautevilleHouse
